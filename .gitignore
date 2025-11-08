@@ -1,0 +1,9 @@
+checkpoints/
+bronze/
+silver/
+gold/
+monitoring/
+streams/
+*.pyc
+__pycache__/
+.DS_Store
